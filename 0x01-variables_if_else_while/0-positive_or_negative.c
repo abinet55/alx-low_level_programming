@@ -3,13 +3,14 @@
 #include <stdio.h>
 
 /**
-* main - prints whether the numer 
+* main - prints whether the number
 * is negative,positive,zero
-* 
+*
 * return: value is always 0.
 */
 
 int main(void)
+/* main function starts from here */
 {
 	int n;
 
