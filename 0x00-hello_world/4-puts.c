@@ -1,9 +1,10 @@
 #include <stdio.h>
 
-int main(void)
 /**
- * this is the start of the main function
+ *the main function print out the message
  */
+
+int main(void)
 
 {
 puts("\"Programming is like building a multilingual puzzle\n");
