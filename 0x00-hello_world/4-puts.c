@@ -4,8 +4,9 @@
  */
 #include <stdio.h>
 
-/*
+/**
  *main - function print out the message
+ *
  *return zero 
 */
 
