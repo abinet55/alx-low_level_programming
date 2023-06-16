@@ -5,13 +5,14 @@
 #include <stdio.h>
 
 /*
- *the main function print out the message
- */
+ *main - function print out the message
+ *return zero 
+*/
 
 int main(void)
 
 {
-puts("\"programming is like building a multilingual puzzle\n");
+puts("\"programming is like building a multilingual puzzle");
 
 return (0);
 }
