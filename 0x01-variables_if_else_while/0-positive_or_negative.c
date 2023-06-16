@@ -3,8 +3,9 @@
 #include <stdio.h>
 
 /**
-* main - prints positive,negative or zero 
-*
+* main - prints whether the numer 
+* is negative,positive,zero
+* 
 * return: value is always 0.
 */
 
