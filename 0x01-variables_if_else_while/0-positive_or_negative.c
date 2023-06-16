@@ -4,8 +4,10 @@
 
 /**
 * main - prints positive,negative or zero
-* return: value is always zero
+*
+* return: value is always 0.
 */
+
 int main(void)
 {
 	int n;
