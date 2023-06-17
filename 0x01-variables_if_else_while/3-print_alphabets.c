@@ -10,29 +10,15 @@ int main(void)
 
 {
 
-char alphabet;
-
-char letter;
+int alphabet;
 
 for (alphabet = 'a'; alphabet <= 'z';alphabet++)
-
-{
-
 putchar(alphabet);
 
-}
+for (alphabet = 'A'; alphabet <= 'Z'; alphabet++)
+putchar(alphabet);
 
 putchar('\n');
- 
-for (letter = 'A'; letter <= 'Z'; letter++);
-
-{
-
-putchar(letter);
-
-}
-
 
 return (0);
-
 }
