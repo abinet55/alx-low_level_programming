@@ -1,13 +1,9 @@
-/*
- * 4-puts.c
- *written by Abinet
- */
 #include <stdio.h>
 
 /**
- *main - function print out the message
- *
- *return: always zer(0) 
+* main - function print out the message
+*
+* Return: always zer(0) 
 */
 
 int main(void)
@@ -16,7 +12,7 @@ int main(void)
 
 puts("\"programming is like building a multilingual puzzle");
 
-puts("/n");
+puts("\n");
 
 return (0);
 
