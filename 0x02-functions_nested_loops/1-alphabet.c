@@ -1,6 +1,6 @@
 #include "main.h"
 /**
-* main - prints alphabet
+* void - prints alphabet
 *
 * Return: always 0
 */
@@ -18,5 +18,5 @@ _putchar(letter);
 
 }
 _putchar('\n');
- 
+
 }
