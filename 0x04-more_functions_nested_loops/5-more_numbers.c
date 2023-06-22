@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
-* more_numbers - prints 14x numbers
+* more_numbers - prints 10x numbers
 *
-* Return: void
+* Return: ten times
 */
 
 void more_numbers(void)
