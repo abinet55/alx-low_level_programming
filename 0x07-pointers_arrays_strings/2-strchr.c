@@ -1,4 +1,3 @@
-#include <stddef.h>
 #include "main.h"
 /**
 * _strchr - search for character
@@ -20,5 +19,5 @@ return (s);
 }
 if (c == '\0')
 return (s);
-return (NULL);
+return (s);
 }
