@@ -1,0 +1,30 @@
+#include "main.h"
+/**
+* _strpbrk - search for same character
+* @s: string to search on
+* @accept: string to be search
+* Return: character
+*/
+
+char *_strpbrk(char *s, char *accept)
+{
+  int i, j;
+  for (i  = 0; s[i] != '\0'; i++)
+    {
+      if (s[i] != 32)
+	{
+	  for (j = 0; accept[j] != '\0';)
+	    {
+	      if (s[i] == accept[j])
+		{
+		  return (s);
+		}
+
+		  j++;
+		    }
+	    }
+	  else
+	    return (s);
+	}
+  return (s);
+}
