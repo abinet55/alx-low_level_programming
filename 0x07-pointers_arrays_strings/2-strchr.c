@@ -19,5 +19,5 @@ return (s);
 }
 if (c == '\0')
 return (s);
-return (s);
+return (NULL);
 }
