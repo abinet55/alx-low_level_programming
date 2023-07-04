@@ -1,3 +1,4 @@
+#include <stdlib.h>
 #include "main.h"
 /**
 * _strchr - search for character
