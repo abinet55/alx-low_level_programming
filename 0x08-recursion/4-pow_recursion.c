@@ -2,7 +2,7 @@
 /**
 * _pow_recursion - calculate the power of integer
 * @x: input 1
-* @y; input 2
+* @y: input 2
 * Return: integer
 */
 
