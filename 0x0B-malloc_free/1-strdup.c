@@ -18,7 +18,7 @@ if (c == NULL)
 {
 return (NULL);
 }
-for (j = 0; j < i; j++) 
+for (j = 0; j < i; j++)
 c[j] = str[j];
 return (c);
 free(c);
