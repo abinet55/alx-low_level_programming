@@ -21,4 +21,5 @@ return (NULL);
 for (j = 0; j < i; j++) 
 c[j] = str[j];
 return (c);
+free(c);
 }
