@@ -13,7 +13,7 @@ if (argc >= 1)
 {
 for (j = 0; j < argc; j++)
 {
-printf("%s\n",argv[j]);
+printf("%s\n", argv[j]);
 }
 }
 return (0);
