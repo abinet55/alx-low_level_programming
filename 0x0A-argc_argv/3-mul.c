@@ -21,4 +21,3 @@ mul = i * j;
 printf("%d\n", mul);
 return (0);
 }
-
