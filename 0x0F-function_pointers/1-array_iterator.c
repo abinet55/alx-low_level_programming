@@ -4,6 +4,7 @@
 * array_iterator - iterate an array
 * @size: size of an array
 * @action: pointer to function
+* @array: pointer to array
 * Return: nothing
 */
 
