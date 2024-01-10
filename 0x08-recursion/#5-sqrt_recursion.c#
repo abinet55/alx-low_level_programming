@@ -1,0 +1,10 @@
+#include "main.c"
+/**
+* _sqrt_recursion - calculate square root of the number
+* @n: input integre
+* Return: integer
+*/
+
+int _sqrt_recursion(int n)
+{
+  if (n
