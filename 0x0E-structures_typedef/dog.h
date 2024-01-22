@@ -3,15 +3,17 @@
 
 /**
 * dog_t - Typedef for struct dog
+*/
+typedef struct dog dog_t;
+
+/**
 * struct dog - struct that stores some information of a dog
 * @name: name
 * @age: age
 * @owner: owner
-* Return: void
 */
 
 typedef struct dog dog_t;
-
 struct dog
 {
 char *name;
