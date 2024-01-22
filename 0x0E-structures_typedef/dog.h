@@ -7,9 +7,11 @@
 * @name: name
 * @age: age
 * @owner: owner
+* Return: void
 */
 
 typedef struct dog dog_t;
+
 struct dog
 {
 char *name;
