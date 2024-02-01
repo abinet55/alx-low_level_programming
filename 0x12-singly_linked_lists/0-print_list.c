@@ -20,5 +20,5 @@ printf("[%d] %s\n", 0, "(nil)");
 h = h -> next;
 element++;
 }
-return (element);
+return(element);
 }
