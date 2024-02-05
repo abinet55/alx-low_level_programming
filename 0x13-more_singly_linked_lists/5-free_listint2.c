@@ -13,7 +13,7 @@ listint_t *current;
 if (head != NULL)
 {
 current = *head;
-while ((temp = current) != NULL)
+while ((tempnode = current) != NULL)
 {
 current = current->next;
 free(tempnode);
